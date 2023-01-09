@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compression.Benchmarks", "Compression.Benchmarks\Compression.Benchmarks.csproj", "{9C2FA3D3-DFE3-4780-989F-71C07514C9FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compression.Core", "Compression.Core\Compression.Core.csproj", "{3E3B3F97-FDA1-4704-B649-743F496418FB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{9C2FA3D3-DFE3-4780-989F-71C07514C9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C2FA3D3-DFE3-4780-989F-71C07514C9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C2FA3D3-DFE3-4780-989F-71C07514C9FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3E3B3F97-FDA1-4704-B649-743F496418FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E3B3F97-FDA1-4704-B649-743F496418FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E3B3F97-FDA1-4704-B649-743F496418FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E3B3F97-FDA1-4704-B649-743F496418FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
